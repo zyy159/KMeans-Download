@@ -1,0 +1,96 @@
+.Root{
+    flex-grow: 1;
+    width: 100%;
+}
+
+.AppBar{
+    height: 80;
+    position : static;
+    background-color:transparent;
+}
+
+.Toolbar{
+    top : 15%;
+    background-color:transparent;
+}
+
+.RedditIcon{
+    margin-right: 50;
+}
+
+.instructions{
+    margin-top : 8;
+    margin-bottom : 8;
+}
+
+.SubRoot{
+    width: 200;
+    height: 600;
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color:transparent;
+}
+
+.Title{
+    text-align: center;
+}
+
+.UploadButton{
+    margin-top: -2%;
+    margin-left: 36%;
+}
+
+.backButton{
+    margin-right: 8;
+    right: 2%;
+}
+
+.Input{
+    display: none;
+}
+
+.State{
+    color: red;
+    font-size: 20;
+}
+
+.ButtonRight{
+    right: 1%;
+}
+
+.MuiTextField{
+    margin: 2;
+    width: 80ch;
+}
+
+.Row{
+    margin-bottom: 34;
+    margin-right: 10;
+    width: 500;
+}
+
+.TextField{
+    width: 34ch;
+    left: 2%;
+}
+.Text_Field{
+    width: 38ch;
+    left: 6%;
+}
+
+.Buttons{
+    margin-top: 1%;
+    margin-left: 63%;
+}
+
+.Image{
+    width : 80%;
+    height: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.ResetButton{
+
+}
